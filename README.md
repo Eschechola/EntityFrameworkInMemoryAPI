@@ -1,2 +1,2 @@
 # EntityFrameworkInMemoryAPI
-a
+API para consumo utilizando EntityFrameworkCore com banco de dados local. <br>Utilizada no artigo sobre REFIT. <br>Link: Em desenvolvimento...

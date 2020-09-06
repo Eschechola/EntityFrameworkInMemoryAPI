@@ -1,0 +1,9 @@
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\bin\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.deps.json
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\bin\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.dll
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\bin\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.pdb
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\obj\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.csprojAssemblyReference.cache
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\obj\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.AssemblyInfoInputs.cache
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\obj\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.AssemblyInfo.cs
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\obj\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.csproj.CoreCompileInputs.cache
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\obj\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.dll
+E:\Backup Nuvem\OneDrive\Documentos\Github\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI\EntityFrameworkInMemoryAPI.Data\obj\Release\netcoreapp3.1\EntityFrameworkInMemoryAPI.Data.pdb
